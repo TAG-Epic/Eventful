@@ -1,1 +1,1 @@
-speedcord~=0.1.24
+speedcord~=0.1.25
